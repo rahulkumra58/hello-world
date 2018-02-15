@@ -1,2 +1,3 @@
 # hello-world
-This is my first github repository
+Hi World!
+I have started with python. My first coding language and I am really excited.
